@@ -1,0 +1,22 @@
+{
+  "name": "eveda_backend",
+  "version": "1.0.0",
+  "description": "this is only backend part of e-veda web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahima-Andani/E-Veda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahima-Andani/E-Veda/issues"
+  },
+  "homepage": "https://github.com/Mahima-Andani/E-Veda#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
